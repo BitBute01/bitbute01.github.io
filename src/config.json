@@ -1,7 +1,7 @@
 {
   "site": {
-    "url": "https://bitbute.github.io",
-    "title": "BitBute",
+    "url": "https://bitbute01.github.io",
+    "title": "Welcom to Blog of BitBute",
     "description": "For a minimalist and exquisite life",
     "keywords": "BitBute",
     "lang": "zh-CN",
@@ -118,7 +118,7 @@
     "serverURL": "https://waline-1-t8619760.deta.app/"
   },
   "sponsor": {
-    "wechat": "https://s2.loli.net/2024/08/03/6lXu4rHghkCmofV.jpg"
+    "wechat": "https://s2.loli.net/2024/10/23/i12lgPDznuEVNMe.jpg"
   },
   "analytics": {
     "enable": false,
