@@ -47,6 +47,12 @@
         "icon": "icon-x",
         "url": "https://x.com/BitBute01",
         "color": "rgb(106,90,205)"
+      },
+      {
+        "name": "Xiaohongshu",
+        "icon": "icon-xiaohongshu",
+        "url": "https://x.com/BitBute01",
+        "color": "rgb(106,90,205)"
       }
     ],
     "yiyan": "尝试，热爱，珍惜，感恩"
